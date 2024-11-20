@@ -1,4 +1,4 @@
-# Sentinel (Due to  NDA, source code is currently private -- subject to change very soon)
+# Sentinel (Due to  NDA, source code is currently private --)
 
 Sentinel is a Django-based web application designed for accountable remote management of local administrator accounts on domain-linked computers. This app integrates LDAP, Python, and PowerShell.
 
